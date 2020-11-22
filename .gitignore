@@ -31,6 +31,8 @@ coverage
 # Bower dependency directory (https://bower.io/)
 bower_components
 
+fontawesome-free-5.15.1-web
+
 # node-waf configuration
 .lock-wscript
 
